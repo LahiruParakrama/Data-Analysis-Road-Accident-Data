@@ -8,29 +8,29 @@ This project demonstrates a comprehensive data analysis workflow entirely comple
 
 The main goals of this project were:
 
-•_Data Cleaning:_ Addressing inconsistencies, handling missing values, and standardizing data to ensure quality and usability.
+•_**Data Cleaning:**_ Addressing inconsistencies, handling missing values, and standardizing data to ensure quality and usability.
 
-•_Data Processing:_ Structuring and organizing data to facilitate analysis, including data formatting, transformations, and calculations.
+•_**Data Processing:**_ Structuring and organizing data to facilitate analysis, including data formatting, transformations, and calculations.
 
-•_Data Analysis:_ Performing descriptive and exploratory analysis to extract meaningful insights, including trends and patterns.
+•_**Data Analysis:**_ Performing descriptive and exploratory analysis to extract meaningful insights, including trends and patterns.
 
-•_Data Visualization:_ Creating visual representations of the data, such as charts and graphs, and assembling them into a dashboard for ease of interpretation.
+•_**Data Visualization:**_ Creating visual representations of the data, such as charts and graphs, and assembling them into a dashboard for ease of interpretation.
 
 ## Key Features
 
-•_Dynamic Dashboard:_ The final dashboard provides interactive elements, allowing users to filter and view data insights clearly and efficiently.
+•_**Dynamic Dashboard:**_ The final dashboard provides interactive elements, allowing users to filter and view data insights clearly and efficiently.
 
-•_Automated Calculations:_ Excel formulas are used to automate data transformations and summary statistics.
+•_A**utomated Calculations:**_ Excel formulas are used to automate data transformations and summary statistics.
 
-•_Visualization Tools:_ Charts and graphs provide visual insights, making the data more accessible and impactful.
+•_**Visualization Tools:**_ Charts and graphs provide visual insights, making the data more accessible and impactful.
 
 ## Tools and Techniques
 
-•_Excel Functions:_ Used functions include Pivot Tables, SUMS, GETPIVOTDATA, Timelines, Slicers, Links and others for efficient data handling.
+•_**Excel Functions:**_ Used functions include Pivot Tables, SUMS, GETPIVOTDATA, Timelines, Slicers, Links and others for efficient data handling.
 
-•_Charts & Graphs:_ A variety of visualizations, including bar charts, line graphs, and pie charts, enhance the analysis.
+•_**Charts & Graphs:**_ A variety of visualizations, including bar charts, line graphs, and pie charts, enhance the analysis.
 
-•_Dashboard Design:_ The final Excel dashboard consolidates all insights into a user-friendly, interactive interface.
+•_**Dashboard Design:**_ The final Excel dashboard consolidates all insights into a user-friendly, interactive interface.
 
 ## Conclusion
 
