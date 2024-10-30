@@ -4,6 +4,9 @@
 
 This project demonstrates a comprehensive data analysis workflow entirely completed in Excel, covering data cleaning, processing, analysis, and visualization. The final result is a dynamic dashboard providing insights into the dataset.
 
+## Dashboard
+![Screenshot (18)](https://github.com/user-attachments/assets/2e9c5ea0-1410-4308-96ab-9b56847a65c2)
+
 ## Objectives
 
 The main goals of this project were:
